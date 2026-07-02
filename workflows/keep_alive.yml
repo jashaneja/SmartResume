@@ -13,6 +13,6 @@ jobs:
         run: |
           curl -s -o /dev/null -w "%{http_code}" \
           --max-time 90 --max-redirs 10 -L \
-          "https://smartresume-ai-1122.streamlit.app/" \
+          "https://smartairesume.streamlit.app/" \
           -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" \
           || echo "Ping attempted, app should be waking up"
