@@ -2,7 +2,7 @@
 
 SmartResume AI is a Streamlit web app that uses Google's Gemini API to help you analyze, score, and improve your resume — and prep for the job you're applying to.
 
-**Live demo:** https://smartresume-ai-1122.streamlit.app/
+**Live demo:** https://smartairesume.streamlit.app/
 
 ## Features
 
